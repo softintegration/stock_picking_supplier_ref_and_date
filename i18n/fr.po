@@ -18,12 +18,12 @@ msgstr ""
 #. module: stock_picking_supplier_ref_and_date
 #: model:ir.model.fields,field_description:stock_picking_supplier_ref_and_date.field_stock_picking__origin_delivery_date
 msgid "Origin delivery date"
-msgstr "Date BL fournisseur"
+msgstr "Date BL partenaire"
 
 #. module: stock_picking_supplier_ref_and_date
 #: model:ir.model.fields,field_description:stock_picking_supplier_ref_and_date.field_stock_picking__origin_delivery_ref
 msgid "Origin delivery reference"
-msgstr "Réference BL fournisseur"
+msgstr "Réference BL partenaire"
 
 #. module: stock_picking_supplier_ref_and_date
 #: model:ir.model,name:stock_picking_supplier_ref_and_date.model_stock_picking
